@@ -1,0 +1,11 @@
+div {
+    background-color: green;
+    width: 250px;
+    height:300px;
+    border: 25px solid black;
+    outline: 30px blue solid;
+    margin-top: 50px;
+    margin-left: 500px;
+    padding-left: 150px;
+
+}
